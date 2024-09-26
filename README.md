@@ -106,3 +106,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="c" width="40" height="40"/> 
   </a>
 </p>
+
+[![An image of @iqballbayhaqi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iqballbayhaqi)](https://holopin.io/@iqballbayhaqi)
